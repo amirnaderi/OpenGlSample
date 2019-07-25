@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1564046542 source:/home/amir/Desktop/CPP/sample1/SampleC1/main.cpp
+	<iostream>
+	<sstream>
+	<GL/glew.h>
+	<SDL2/SDL.h>
+	"Display.h"
+
+1564034456 source:/home/amir/Desktop/CPP/sample1/SampleC1/src/display.cpp
+	"display.h"
+
+1564034339 /home/amir/Desktop/CPP/sample1/SampleC1/include/display.h
+	<SDL2/SDL.h>
+	<iostream>
+
+1564042354 /home/amir/Desktop/CPP/sample1/SampleC1/include/Display.h
+	<SDL2/SDL.h>
+	<iostream>
+	<string>
+
+1564042307 source:/home/amir/Desktop/CPP/sample1/SampleC1/src/Display.cpp
+	"Display.h"
+	<GL/glew.h>
+	<iostream>
+
